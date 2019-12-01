@@ -1,0 +1,14 @@
+html, body {
+	font-family: monospace;
+	background:#000;
+	color:grey;
+	overflow:hidden;
+	height:99%;
+}
+*{margin:0px;}
+
+canvas {
+	border: 1px grey solid;
+}
+
+span {white-space:pre;}
